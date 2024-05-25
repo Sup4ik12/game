@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="28111" topLine="695" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="21" />
+			<Collapse line="24" />
+			<Collapse line="28" />
+			<Collapse line="32" />
+			<Collapse line="39" />
+			<Collapse line="46" />
+			<Collapse line="54" />
+			<Collapse line="61" />
+			<Collapse line="69" />
+			<Collapse line="77" />
+			<Collapse line="85" />
+			<Collapse line="93" />
+			<Collapse line="100" />
+			<Collapse line="111" />
+			<Collapse line="120" />
+			<Collapse line="128" />
+			<Collapse line="130" />
+			<Collapse line="134" />
+			<Collapse line="409" />
+			<Collapse line="415" />
+			<Collapse line="822" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
